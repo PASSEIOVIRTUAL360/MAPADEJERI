@@ -1,4 +1,9 @@
 {
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
+ "name": "MAPA DE JERI",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -35,10 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "name": "MAPA DE JERI",
- "background_color": "#FFFFFF",
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen"
+ ]
 }
